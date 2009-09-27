@@ -39,7 +39,7 @@
      dir="${basedir}/source"
      output="${basedir}/build/logs/checkstyle.xml">
       <arg line="--report=checkstyle
-          --standard=PEAR
+          --standard=Zend
       ."/>
     </exec>
   </target>

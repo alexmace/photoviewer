@@ -3,7 +3,7 @@
   <filter>
     <blacklist>
       <directory suffix=".php">/usr/share/php/libzend-framework-php</directory>
-      <directory suffix=".php">/opt/cruisecontrol/projects/traction/source/tests</directory>
+      <directory suffix=".php">/opt/cruisecontrol/projects/PhotoViewer/source/tests</directory>
     </blacklist>
   </filter>
 </phpunit>
